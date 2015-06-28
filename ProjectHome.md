@@ -1,0 +1,1 @@
+Just a bit python code that tries to solve a sudoku
